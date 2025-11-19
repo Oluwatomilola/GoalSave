@@ -1,0 +1,26 @@
+{
+  "name": "GoalSave - Goal-Based Savings",
+  "short_name": "GoalSave",
+  "description": "A decentralized goal-based savings application built on Celo blockchain",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#242424",
+  "theme_color": "#646cff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["finance", "productivity"],
+  "screenshots": []
+}
